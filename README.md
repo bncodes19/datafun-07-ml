@@ -29,10 +29,11 @@ jupyterlab
 pandas
 pyarrow
 numpy
-matplatlib
+matplotlib
 seaborn
 scipy
 stats
+sklearn
 ```
 6. Install the requirements file in a terminal
 ``` shell
